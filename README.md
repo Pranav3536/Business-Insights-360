@@ -63,3 +63,22 @@ The dashboard provides several business insights, including:
 ---
 
 ## Project Structure
+
+Atliq-Hardware-Sales-Analysis
+│
+├── dataset
+│   └── sales_data.sql              # Raw database used for analysis
+│
+├── excel-report
+│   └── sales_report.xlsx           # Excel report with analysis
+│
+├── dashboard
+│   └── atliq_sales_dashboard.pbix  # Power BI dashboard file
+│
+├── sql_queries
+│   └── analysis_queries.sql        # SQL queries used for analysis
+│
+├── images
+│   └── dashboard_preview.png       # Screenshot of dashboard
+│
+└── README.md                       # Project documentation
