@@ -1,0 +1,16 @@
+─────────────────────────────
+🎯 BUSINESS OBJECTIVE
+─────────────────────────────
+
+Create an interactive BI dashboard to give a clear view 
+of organizational performance and enable data-driven decisions.
+
+─────────────────────────────
+🚀 Key Goals
+─────────────────────────────
+
+1️⃣ Track financial metrics (Revenue, Profit, GM %)  
+2️⃣ Identify top customers & products  
+3️⃣ Support marketing & operational strategies  
+4️⃣ Improve supply chain accuracy  
+5️⃣ Help executives make informed decisions
