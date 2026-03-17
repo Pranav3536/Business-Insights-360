@@ -1,0 +1,18 @@
+─────────────────────────────
+🧠 ANALYTICAL APPROACH
+─────────────────────────────
+
+🔎 Data Extraction
+• SQL queries to extract sales, customer, and product data  
+
+🧹 Data Preparation
+• Clean and structure datasets for analysis  
+
+📊 Data Modeling
+• Build relationships in Power BI for efficient reporting  
+
+📈 KPI Development
+• Net Sales, GM %, Profit %, Forecast Accuracy, Product Performance  
+
+📉 Dashboard Visualization
+• Interactive charts, KPI cards, tables to deliver actionable insights
