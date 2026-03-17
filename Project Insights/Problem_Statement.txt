@@ -1,1 +1,24 @@
+─────────────────────────────
+📌 PROBLEM STATEMENT
+─────────────────────────────
 
+Businesses generate large volumes of data from Finance, Sales, 
+Marketing, and Supply Chain. This data is often scattered, 
+making it hard to extract meaningful insights.
+
+─────────────────────────────
+🔍 Key Challenges
+─────────────────────────────
+
+1️⃣ No unified view of overall business performance  
+2️⃣ Difficulty tracking key metrics (Net Sales, Profit, GM %)  
+3️⃣ Limited visibility into customer & product trends  
+4️⃣ Forecast accuracy and operational inefficiencies  
+5️⃣ Identifying high & low performing segments  
+
+─────────────────────────────
+💡 Solution
+─────────────────────────────
+
+Build an interactive BI dashboard using SQL and Power BI 
+to convert raw data into actionable business insights.
