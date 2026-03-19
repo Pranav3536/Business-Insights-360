@@ -7,6 +7,7 @@ Business Insights 360 is an end-to-end Business Intelligence and Data Analytics 
 The goal of this project is to transform raw sales data into meaningful business insights using SQL, Excel, and Power BI. The analysis helps understand sales trends, product performance, customer behavior, and market distribution to support data-driven decision making.
 
 🎯 Project Objective
+
 The main objectives of this project are:
 - Analyze sales performance across different markets
 - Identify top-performing products
@@ -15,6 +16,7 @@ The main objectives of this project are:
 - Build an interactive Power BI dashboard for business insights
 
 🗂 Dataset Description
+
 The dataset represents sales data from Atliq Hardware and includes multiple business entities:
 - Customers – Information about customers purchasing products
 - Products – Product details and variants
@@ -25,12 +27,14 @@ The dataset represents sales data from Atliq Hardware and includes multiple busi
 These datasets are connected using SQL queries to perform meaningful business analysis.
 
 🛠 Tools & Technologies Used
+
 - SQL – Data extraction and analytical queries
 - Power BI – Interactive dashboard and data visualization
 - Microsoft Excel – Data exploration and reporting
 - GitHub – Project documentation and version control
 
 📊 Dashboard Features
+
 The Power BI dashboard provides several business insights, including:
 - Total Sales and Revenue Analysis
 - Market-wise Sales Performance
@@ -40,6 +44,7 @@ The Power BI dashboard provides several business insights, including:
 - Overall Business Performance Overview
 
 🔎 Key Insights
+
 - Identified the top markets generating the highest revenue
 - Discovered key customers contributing major sales volume
 - Analyzed product demand across different regions
