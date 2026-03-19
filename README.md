@@ -88,4 +88,4 @@ Atliq-Hardware-Sales-Analysis
 This project includes an interactive dashboard built using Power BI.
 
 🔗 **Live Dashboard:**  
-[Open Power BI Dashboard](https://app.powerbi.com/groups/me/reports/37491bd6-2e1b-49b1-a43f-792dc7533b20/ReportSection0e765c0061580b067c73?experience=power-bi)
+[Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQxNzUxYTUtZGM1OC00ZmRmLWFmMjgtN2JlMTEwMDNkZWQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
