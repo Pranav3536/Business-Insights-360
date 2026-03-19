@@ -1,0 +1,13 @@
+════════════════════════════
+          CONCLUSION
+════════════════════════════
+
+🔹 The project analyzes sales data to understand business performance.
+
+🔹 SQL was used to transform and analyze raw data efficiently.
+
+🔹 Power BI dashboard provides interactive visual insights.
+
+🔹 The analysis helps businesses make better data-driven decisions.
+
+════════════════════════════
