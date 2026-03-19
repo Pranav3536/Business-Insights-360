@@ -1,1 +1,23 @@
+--> PROJECT TITLE
+Business Insights 360 – Atliq Hardware Sales Analysis
 
+--> DOMAIN
+Business Intelligence | Sales Analytics | Data Analytics
+
+--> TOOLS & TECHNOLOGIES
+SQL (Data Extraction & Analysis)
+Power BI (Interactive Dashboard & Data Visualization)
+Excel (Data Exploration & Supporting Analysis)
+GitHub (Project Documentation)
+
+--> PROJECT SUMMARY
+1. This project performs an end-to-end business analysis on sales data from Atliq Hardware to generate meaningful insights.
+2. The analysis focuses on product performance, customer purchasing behavior, and market-wise sales distribution.
+3. The project simulates a real-world business intelligence scenario where data is used to support strategic decision-making
+   and improve overall business performance.
+
+--> TARGET USERS
+Business Analysts
+Sales Managers
+Operations Team
+Business Decision Makers
