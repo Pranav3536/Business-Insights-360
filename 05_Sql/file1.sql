@@ -1,7 +1,3 @@
--- =====================================================
--- ATLIQ Hardware Sales Analysis - SQL Queries
--- =====================================================
-
 -- 1. Monthly Total Sales
 -- Shows total quantity sold each month
 
