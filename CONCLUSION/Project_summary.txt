@@ -1,5 +1,5 @@
 ════════════════════════════
-        PROJECT SUMMARY
+      PROJECT SUMMARY
 ════════════════════════════
 
 🔹 Built an end-to-end sales analysis project.
