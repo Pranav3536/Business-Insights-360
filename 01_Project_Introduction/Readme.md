@@ -50,7 +50,9 @@ The Power BI dashboard provides several business insights, including:
 - Observed sales trends across different time periods
 - Highlighted business opportunities for growth in different markets
 
-📂 Project Structure
+## 📂 Project Structure
+
+```
 Business-Insights-360
 │
 ├── 01_Project_Introduction
@@ -90,12 +92,13 @@ Business-Insights-360
     ├── Conclusion.txt
     ├── Future_scope.txt
     └── Business Insights 360.pptx
+```
     
-🚀 Power BI Dashboard:
-- This project includes an interactive Power BI dashboard to visualize business performance and generate actionable insights.
+## 🚀 Power BI Dashboard:
+This project includes an interactive **Power BI dashboard** for analyzing Atliq Hardware sales performance.
 
-🔗 Live Dashboard:
-- https://app.powerbi.com/view?r=eyJrIjoiYTQxNzUxYTUtZGM1OC00ZmRmLWFmMjgtN2JlMTEwMDNkZWQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+🔗 **Live Dashboard:**  
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQxNzUxYTUtZGM1OC00ZmRmLWFmMjgtN2JlMTEwMDNkZWQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 🏁 Conclusion:
 - This project demonstrates how raw business data can be transformed into meaningful insights using modern data analytics and business intelligence tools. By combining SQL for data analysis and Power BI for visualization, the project provides a clear understanding of business performance and supports data-driven strategic decisions.
