@@ -51,7 +51,7 @@ The Power BI dashboard provides several business insights, including:
 - Highlighted business opportunities for growth in different markets
 
 📂 Project Structure
--Business-Insights-360
+Business-Insights-360
 │
 ├── 01_Project_Introduction
 │   ├── Project_overview.txt
@@ -92,10 +92,10 @@ The Power BI dashboard provides several business insights, including:
     └── Business Insights 360.pptx
     
 🚀 Power BI Dashboard:
-This project includes an interactive Power BI dashboard to visualize business performance and generate actionable insights.
+- This project includes an interactive Power BI dashboard to visualize business performance and generate actionable insights.
 
 🔗 Live Dashboard:
-https://app.powerbi.com/view?r=eyJrIjoiYTQxNzUxYTUtZGM1OC00ZmRmLWFmMjgtN2JlMTEwMDNkZWQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+- https://app.powerbi.com/view?r=eyJrIjoiYTQxNzUxYTUtZGM1OC00ZmRmLWFmMjgtN2JlMTEwMDNkZWQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 🏁 Conclusion:
-This project demonstrates how raw business data can be transformed into meaningful insights using modern data analytics and business intelligence tools. By combining SQL for data analysis and Power BI for visualization, the project provides a clear understanding of business performance and supports data-driven strategic decisions.
+- This project demonstrates how raw business data can be transformed into meaningful insights using modern data analytics and business intelligence tools. By combining SQL for data analysis and Power BI for visualization, the project provides a clear understanding of business performance and supports data-driven strategic decisions.
