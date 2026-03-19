@@ -1,1 +1,13 @@
+════════════════════════════
+        FUTURE SCOPE
+════════════════════════════
 
+🔹 Integration with real-time data sources for live business monitoring.
+
+🔹 Use of predictive analytics and machine learning for future sales forecasting.
+
+🔹 Automation of data pipelines to improve efficiency and reduce manual work.
+
+🔹 Addition of more KPIs to provide deeper business insights.
+
+════════════════════════════
