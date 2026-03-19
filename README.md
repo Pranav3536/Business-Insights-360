@@ -1,91 +1,105 @@
-# Atliq Hardware Sales Analysis
+📊 Atliq Hardware Sales Analysis
+Business Insights 360 | Power BI & SQL Project
 
-## Project Overview
-The Atliq Hardware Sales Analysis project focuses on analyzing sales data from a fictional hardware company to generate meaningful business insights. The goal of this project is to help the company understand its sales performance, identify key customers and markets, and support better data-driven decision making.
+👤 Author: PRANAV SHRIVASTAV
 
-This project demonstrates how data analysis and visualization can be used to transform raw business data into actionable insights.
+Business Insights 360 is an end-to-end Business Intelligence and Data Analytics project focused on analyzing the sales performance of Atliq Hardware.
+The goal of this project is to transform raw sales data into meaningful business insights using SQL, Excel, and Power BI. The analysis helps understand sales trends, product performance, customer behavior, and market distribution to support data-driven decision making.
 
----
+🎯 Project Objective
 
-## Project Objective
 The main objectives of this project are:
-
 - Analyze sales performance across different markets
 - Identify top-performing products
 - Discover high-value customers
 - Analyze revenue trends over time
-- Build an interactive dashboard for business insights
+- Build an interactive Power BI dashboard for business insights
 
----
+🗂 Dataset Description
 
-## Dataset Description
-The dataset contains multiple tables representing different business entities:
+The dataset represents sales data from Atliq Hardware and includes multiple business entities:
+- Customers – Information about customers purchasing products
+- Products – Product details and variants
+- Sales Transactions – Monthly sales records
+- Markets – Regions where sales occur
+- Date – Time dimension used for trend analysis
 
-- **Customers** – Information about the company’s customers  
-- **Products** – Details about the products sold  
-- **Sales Transactions** – Records of all sales transactions  
-- **Markets** – Regions or cities where sales occur  
-- **Date** – Time-related data for trend analysis  
+These datasets are connected using SQL queries to perform meaningful business analysis.
 
-These tables are connected using SQL queries to perform meaningful analysis.
+🛠 Tools & Technologies Used
 
----
+- SQL – Data extraction and analytical queries
+- Power BI – Interactive dashboard and data visualization
+- Microsoft Excel – Data exploration and reporting
+- GitHub – Project documentation and version control
 
-## Tools and Technologies Used
+📊 Dashboard Features
 
-- MySQL – Data storage and SQL queries  
-- Power BI – Data visualization and dashboard creation  
-- Microsoft Excel – Initial data exploration and cleaning  
-- GitHub – Project hosting and version control
+The Power BI dashboard provides several business insights, including:
+- Total Sales and Revenue Analysis
+- Market-wise Sales Performance
+- Product Performance Analysis
+- Customer Contribution Analysis
+- Year-wise and Month-wise Sales Trends
+- Overall Business Performance Overview
 
----
+🔎 Key Insights
 
-## Dashboard Features
-
-The dashboard provides several business insights, including:
-
-- Total Revenue Analysis
-- Sales Quantity Analysis
-- Revenue by Markets
-- Top Customers by Revenue
-- Top Products by Revenue
-- Year-wise and Month-wise Revenue Trends
-
----
-
-## Key Insights
-
-- Identified the markets generating the highest revenue
-- Determined the top customers contributing to total sales
-- Analyzed product performance across different regions
+- Identified the top markets generating the highest revenue
+- Discovered key customers contributing major sales volume
+- Analyzed product demand across different regions
 - Observed sales trends across different time periods
+- Highlighted business opportunities for growth in different markets
 
----
+## 📂 Project Structure
 
-## Project Structure
-
-Atliq-Hardware-Sales-Analysis
+```
+Business-Insights-360
 │
-├── dataset
-│   └── sales_data.sql              # Raw database used for analysis
+├── 01_Project_Introduction
+│   ├── Project_overview.txt
+│   └── Readme.md
 │
-├── excel-report
-│   └── sales_report.xlsx           # Excel report with analysis
+├── 02_Datasets
+│   ├── DB.SQL
+│   └── datasets.zip
 │
-├── dashboard
-│   └── atliq_sales_dashboard.pbix  # Power BI dashboard file
+├── 03_Project_Insights
+│   ├── Analytical_approach.txt
+│   ├── Business_objective.txt
+│   ├── Key_insights.txt
+│   └── Problem_statement.txt
 │
-├── sql_queries
-│   └── analysis_queries.sql        # SQL queries used for analysis
+├── 04_Excel_Report
+│   ├── p_and_l_fine_tuning.pdf
+│   ├── sales_market_report.pdf
+│   ├── sales_report_etl_2 market vs target.pdf
+│   └── sales_report_etl_2.pdf
 │
-├── images
-│   └── dashboard_preview.png       # Screenshot of dashboard
+├── 05_SQL
+│   ├── file1.sql
+│   └── file2.sql
 │
-└── README.md                       # Project documentation
-
-## Dashboard
-
-This project includes an interactive dashboard built using Power BI.
+├── 06_Power_BI
+│   ├── Finance_View.png
+│   ├── Home_page_png.png
+│   ├── Marketing_View.png
+│   ├── Sales_View.png
+│   ├── Supply_Chain_View.png
+│   └── powerbi_dashboard.md
+│
+└── 07_Conclusion
+    ├── Business_Insights_360_Project_Summary.pdf
+    ├── Conclusion.txt
+    ├── Future_scope.txt
+    └── Business Insights 360.pptx
+```
+    
+## 🚀 Power BI Dashboard:
+This project includes an interactive **Power BI dashboard** for analyzing Atliq Hardware sales performance.
 
 🔗 **Live Dashboard:**  
-[Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQxNzUxYTUtZGM1OC00ZmRmLWFmMjgtN2JlMTEwMDNkZWQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQxNzUxYTUtZGM1OC00ZmRmLWFmMjgtN2JlMTEwMDNkZWQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+🏁 Conclusion:
+- This project demonstrates how raw business data can be transformed into meaningful insights using modern data analytics and business intelligence tools. By combining SQL for data analysis and Power BI for visualization, the project provides a clear understanding of business performance and supports data-driven strategic decisions.
