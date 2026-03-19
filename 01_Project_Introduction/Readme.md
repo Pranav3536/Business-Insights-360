@@ -1,5 +1,5 @@
-📊 Atliq Hardware Sales Analysis
-Business Insights 360 | Power BI & SQL Project
+<h1 align="center">📊 Atliq Hardware Sales Analysis</h1>
+<p align="center">Power BI | SQL | Data Analysis</p>
 
 👤 Author: PRANAV SHRIVASTAV
 
