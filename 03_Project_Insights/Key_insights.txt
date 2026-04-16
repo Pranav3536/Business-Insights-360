@@ -2,18 +2,8 @@
 📊 KEY INSIGHTS
 ─────────────────────────────
 
-📈 Financial
-1️⃣ Net Sales growth highlights top markets  
-2️⃣ Some products have high revenue but low profitability  
-
-👥 Customer
-1️⃣ Top customers contribute majority of revenue  
-2️⃣ High volume customers may have low profit margins  
-
-📦 Product
-1️⃣ Few products drive most of the sales  
-2️⃣ Certain products need strategic review  
-
-🚚 Supply Chain
-1️⃣ Forecast accuracy varies by product  
-2️⃣ High errors impact inventory and efficiency
+Revenue is strong but profitability is low
+Operational costs are high
+Some products generate high sales but low margin
+Forecast accuracy needs improvement
+Business is dependent on a few major customers”
